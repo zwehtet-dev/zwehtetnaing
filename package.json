@@ -1,0 +1,46 @@
+{
+  "name": "luxury-portfolio-website",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run type-check && vite build",
+    "build:prod": "npm run lint && npm run type-check && vite build",
+    "preview": "vite preview",
+    "type-check": "vue-tsc --noEmit --skipLibCheck",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx --fix --ignore-path .gitignore",
+    "lint:check": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx --ignore-path .gitignore",
+    "analyze": "vite build --mode analyze",
+    "serve": "vite preview --port 4173",
+    "deploy:netlify": "npm run build:prod && netlify deploy --prod --dir dist",
+    "deploy:vercel": "npm run build:prod && vercel --prod"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.5",
+    "pinia": "^2.1.7",
+    "vue-i18n": "^9.8.0",
+    "vee-validate": "^4.12.4",
+    "@vueuse/core": "^10.7.0",
+    "@headlessui/vue": "^1.7.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "vite": "^5.0.8",
+    "typescript": "^5.3.3",
+    "vue-tsc": "^2.0.0",
+    "@vue/tsconfig": "^0.5.1",
+    "@types/node": "^20.10.0",
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "@tailwindcss/typography": "^0.5.10",
+    "@tailwindcss/forms": "^0.5.7",
+    "eslint": "^8.56.0",
+    "eslint-plugin-vue": "^9.19.2",
+    "@typescript-eslint/eslint-plugin": "^6.16.0",
+    "@typescript-eslint/parser": "^6.16.0",
+    "@iconify/vue": "^4.1.1"
+  }
+}

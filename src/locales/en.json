@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Zwe Htet Naing",
+    "title": "Junior Backend Developer",
+    "tagline": "Crafting clean, scalable, and secure backend solutions",
+    "description": "Passionate about building robust web applications with modern technologies",
+    "cta": {
+      "viewWork": "View My Work",
+      "hireMe": "Hire Me",
+      "downloadCV": "Download CV"
+    },
+    "scrollDown": "Scroll down to explore"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me better",
+    "summary": "I'm a motivated and detail-oriented Junior Backend Developer with proven experience in building dynamic web applications and secure backend systems. My expertise lies in Laravel, MySQL, and API development, where I focus on performance, scalability, and clean architecture. I am passionate about backend logic, real-time interaction, and working collaboratively in a modern development environment.",
+    "downloadCV": "Download CV",
+    "education": "Education & Courses",
+    "timeline": {
+      "present": "Present",
+      "completed": "Completed",
+      "inProgress": "In Progress",
+      "subtitle": "My journey in technology and professional development"
+    },
+    "stats": {
+      "experience": "Years Experience",
+      "projects": "Projects Completed",
+      "technologies": "Technologies",
+      "clients": "Happy Clients"
+    }
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "Technologies I work with",
+    "technical": "Technical Skills",
+    "soft": "Soft Skills",
+    "languages": "Languages",
+    "summary": "Passionate about continuous learning and staying up-to-date with the latest technologies and best practices in software development.",
+    "proficiency": {
+      "fluent": "Fluent",
+      "basic": "Basic",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "categories": {
+      "backend": "Backend Development",
+      "frontend": "Frontend Development",
+      "database": "Database Management",
+      "tools": "Development Tools"
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Some of my recent work",
+    "role": "Role",
+    "technologies": "Technologies",
+    "features": "Key Features",
+    "viewDemo": "View Demo",
+    "viewCode": "View Code",
+    "viewDetails": "View Details",
+    "comingSoon": "Coming Soon",
+    "allProjects": "View All Projects",
+    "filter": {
+      "all": "All Projects",
+      "web": "Web Applications",
+      "api": "API Development",
+      "mobile": "Mobile Apps"
+    }
+  },
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "My professional journey",
+    "responsibilities": "Key Responsibilities",
+    "duration": "Duration",
+    "achievements": "Key Achievements",
+    "technologies": "Technologies Used",
+    "companies": "Companies",
+    "fullTime": "Full-time",
+    "viewCompany": "View Company",
+    "requestReference": "Request Reference",
+    "careerSummary": "Career Summary",
+    "summaryText": "Throughout my career, I have focused on building scalable backend systems and delivering high-quality web applications. My experience spans from developing RESTful APIs to creating real-time web applications with modern frameworks.",
+    "highlight1": "Backend Development Expertise",
+    "highlight2": "Team Collaboration",
+    "highlight3": "Continuous Learning"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's discuss your next project",
+    "description": "I'm always interested in new opportunities and exciting projects. Feel free to reach out!",
+    "quickContact": "Quick Contact",
+    "availabilityNote": "Available for freelance projects and full-time opportunities",
+    "form": {
+      "title": "Send Message",
+      "subtitle": "I'll get back to you within 24 hours",
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "reset": "Reset Form",
+      "privacy": "Your information is secure and will not be shared with third parties",
+      "success": "Message sent successfully! I'll get back to you soon.",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "phone": "Phone",
+      "email": "Email",
+      "location": "Location",
+      "availability": "Available for work"
+    },
+    "social": {
+      "title": "Connect With Me",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter"
+    },
+    "responseTime": {
+      "title": "Response Time",
+      "subtitle": "I aim to respond quickly to all inquiries",
+      "average": "Average Response",
+      "rate": "Response Rate"
+    },
+    "success": {
+      "title": "Message Sent!",
+      "message": "Thank you for reaching out!",
+      "description": "I've received your message and will get back to you as soon as possible. Usually within 24 hours."
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "nameMinLength": "Name must be at least 2 characters",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "subjectRequired": "Subject is required",
+      "messageRequired": "Message is required",
+      "messageMinLength": "Message must be at least 10 characters long"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Zwe Htet Naing. All rights reserved.",
+    "madeWith": "Made with ❤️ in Myanmar",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "close": "Close",
+    "open": "Open",
+    "menu": "Menu",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "language": "Language",
+    "backToTop": "Back to Top",
+    "readMore": "Read More",
+    "readLess": "Read Less",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "comingSoon": "Coming Soon",
+    "underDevelopment": "Under Development"
+  },
+  "meta": {
+    "title": "Zwe Htet Naing - Backend Developer Portfolio",
+    "description": "Junior Backend Developer specializing in Laravel, PHP, and scalable web applications. View my portfolio and get in touch for your next project.",
+    "keywords": "Backend Developer, Laravel, PHP, MySQL, API Development, Web Development, Myanmar Developer"
+  }
+}
