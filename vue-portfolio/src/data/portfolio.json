@@ -1,0 +1,161 @@
+{
+  "name": "Zwe Htet Naing",
+  "title": "Backend Developer",
+  "summary": "Motivated backend developer with expertise in building scalable web applications using modern technologies and best practices.",
+  "professionalSummary": "Motivated and detail-oriented Junior Web Developer with 1 year of hands-on experience in building and maintaining dynamic web applications. Proficient in developing RESTful APIs, integrating third-party services, and ensuring secure backend systems using PHP, Laravel, and MySQL. Skilled in problem-solving, optimizing performance, and collaborating with cross-functional teams to deliver scalable solutions.",
+  "contact": {
+    "email": "zwehtet.dev@gmail.com",
+    "phone": "+959258431631",
+    "location": "Mandalay, Myanmar"
+  },
+  "skills": {
+    "technical": [
+      "Java Programming",
+      "Laravel",
+      "PHP",
+      "MySQL",
+      "REST APIs",
+      "Git",
+      "Linux",
+      "Web Development"
+    ]
+  },
+  "techStack": [
+    {
+      "name": "Laravel",
+      "icon": "fab fa-laravel",
+      "color": "#FF2D20",
+      "category": "Framework"
+    },
+    {
+      "name": "PHP",
+      "icon": "fab fa-php",
+      "color": "#777BB4",
+      "category": "Language"
+    },
+    {
+      "name": "Java",
+      "icon": "fab fa-java",
+      "color": "#ED8B00",
+      "category": "Language"
+    },
+    {
+      "name": "MySQL",
+      "icon": "fas fa-database",
+      "color": "#4479A1",
+      "category": "Database"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "fab fa-js-square",
+      "color": "#F7DF1E",
+      "category": "Language"
+    },
+    {
+      "name": "Alpine.js",
+      "icon": "fas fa-mountain",
+      "color": "#8BC34A",
+      "category": "Framework"
+    },
+    {
+      "name": "Git",
+      "icon": "fab fa-git-alt",
+      "color": "#F05032",
+      "category": "Tool"
+    },
+    {
+      "name": "Linux",
+      "icon": "fab fa-linux",
+      "color": "#FCC624",
+      "category": "OS"
+    },
+    {
+      "name": "Livewire",
+      "icon": "fas fa-bolt",
+      "color": "#4F46E5",
+      "category": "Framework"
+    },
+    {
+      "name": "HTML5",
+      "icon": "fab fa-html5",
+      "color": "#E34F26",
+      "category": "Language"
+    },
+    {
+      "name": "CSS3",
+      "icon": "fab fa-css3-alt",
+      "color": "#1572B6",
+      "category": "Language"
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "fab fa-bootstrap",
+      "color": "#7952B3",
+      "category": "Framework"
+    }
+  ],
+  "languages": [
+    { "name": "Burmese", "level": "Fluent" },
+    { "name": "English", "level": "Basic" }
+  ],
+  "experience": [
+    {
+      "position": "Junior Backend Developer",
+      "company": "New Way Myanmar",
+      "period": "2024 - Present",
+      "responsibilities": [
+        "Built dynamic websites using Laravel, Livewire, and Alpine.js to create interactive, real-time user experiences.",
+        "Developed RESTful APIs to facilitate seamless communication between frontend and backend services, ensuring efficient data handling and enhanced performance.",
+        "Implemented best practices for API security, error handling, and validation to improve system reliability.",
+        "Collaborated on optimizing API endpoints to reduce response times and improve user experience.",
+        "Gained hands-on experience with modern web development frameworks and tools in a production environment."
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "title": "Advanced Web Technology",
+      "institution": "Data Land Technology",
+      "period": "2024 - Present",
+      "description": "Advanced concepts in modern web development technologies including jQuery, Tailwind CSS, JSON, Firebase, and advanced PHP frameworks."
+    },
+    {
+      "title": "Web Development Foundation",
+      "institution": "Data Land Technology",
+      "period": "2023 - 2024",
+      "description": "Comprehensive foundation in web technologies including HTML, CSS, JavaScript, Bootstrap, Git, PHP, Laravel, and MySQL database management."
+    },
+    {
+      "title": "Java Standard Edition",
+      "institution": "Study Right Now",
+      "period": "2023 - 2024",
+      "description": "Strong foundation in Java programming and object-oriented concepts, with practical experience in problem-solving and data structures."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Dynamic Web Application",
+      "description": "Interactive web application built with Laravel, Livewire, and Alpine.js featuring real-time user experiences and modern UI components.",
+      "technologies": ["Laravel", "Livewire", "Alpine.js", "MySQL"],
+      "icon": "fas fa-globe",
+      "demoUrl": "#",
+      "codeUrl": "#"
+    },
+    {
+      "title": "RESTful API Development",
+      "description": "Comprehensive API system with security features, error handling, and optimized performance for seamless frontend-backend communication.",
+      "technologies": ["PHP", "Laravel", "MySQL", "REST"],
+      "icon": "fas fa-server",
+      "demoUrl": "#",
+      "codeUrl": "#"
+    },
+    {
+      "title": "Database Management",
+      "description": "Efficient database design and optimization solutions for high-performance web applications with complex data relationships.",
+      "technologies": ["MySQL", "PHP", "Laravel"],
+      "icon": "fas fa-database",
+      "demoUrl": "#",
+      "codeUrl": "#"
+    }
+  ]
+}
