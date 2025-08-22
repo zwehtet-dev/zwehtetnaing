@@ -1,0 +1,138 @@
+{
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2024",
+      "credentialId": "AWS-CSA-2024-001",
+      "badge": "https://example.com/badge.png",
+      "skills": ["Cloud Architecture", "AWS Services", "System Design"]
+    },
+    {
+      "name": "Laravel Certified Developer",
+      "issuer": "Laravel",
+      "date": "2023",
+      "credentialId": "LARAVEL-2023-456",
+      "badge": "https://example.com/laravel-badge.png",
+      "skills": ["PHP", "Laravel", "Web Development"]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Best Backend Developer",
+      "organization": "Tech Conference 2024",
+      "date": "2024-03-15",
+      "description": "Recognized for outstanding contributions to backend development and API design.",
+      "icon": "fas fa-trophy"
+    },
+    {
+      "title": "Open Source Contributor",
+      "organization": "GitHub",
+      "date": "2023-12-01",
+      "description": "Contributed to 15+ open source projects with 500+ stars combined.",
+      "icon": "fab fa-github"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "John Smith",
+      "position": "Senior Frontend Developer",
+      "company": "TechCorp",
+      "content": "Working with this developer was exceptional. Their backend solutions are robust and well-documented.",
+      "avatar": "https://example.com/avatar1.jpg",
+      "rating": 5
+    },
+    {
+      "name": "Sarah Johnson",
+      "position": "Project Manager",
+      "company": "StartupXYZ",
+      "content": "Delivered high-quality APIs on time and communicated effectively throughout the project.",
+      "avatar": "https://example.com/avatar2.jpg",
+      "rating": 5
+    }
+  ],
+  "publications": [
+    {
+      "title": "Building Scalable APIs with Laravel",
+      "type": "Blog Post",
+      "platform": "Medium",
+      "date": "2024-01-15",
+      "url": "https://medium.com/@example/building-scalable-apis",
+      "readTime": "8 min read",
+      "tags": ["Laravel", "API", "Backend"]
+    },
+    {
+      "title": "MySQL Performance Optimization Guide",
+      "type": "Tutorial",
+      "platform": "Dev.to",
+      "date": "2023-11-20",
+      "url": "https://dev.to/example/mysql-optimization",
+      "readTime": "12 min read",
+      "tags": ["MySQL", "Database", "Performance"]
+    }
+  ],
+  "hobbies": [
+    {
+      "name": "Open Source",
+      "icon": "fab fa-github",
+      "description": "Contributing to open source projects and maintaining personal repositories."
+    },
+    {
+      "name": "Chess",
+      "icon": "fas fa-chess",
+      "description": "Playing chess online and participating in local tournaments."
+    },
+    {
+      "name": "Reading",
+      "icon": "fas fa-book",
+      "description": "Reading technical books and staying updated with industry trends."
+    },
+    {
+      "name": "Photography",
+      "icon": "fas fa-camera",
+      "description": "Capturing moments and exploring creative photography techniques."
+    }
+  ],
+  "socialMedia": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/username",
+      "icon": "fab fa-github",
+      "followers": "500+"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/username",
+      "icon": "fab fa-linkedin",
+      "connections": "300+"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/username",
+      "icon": "fab fa-twitter",
+      "followers": "200+"
+    },
+    {
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/123456/username",
+      "icon": "fab fa-stack-overflow",
+      "reputation": "1.5k"
+    }
+  ],
+  "statistics": {
+    "projectsCompleted": 25,
+    "clientsSatisfied": 15,
+    "yearsOfExperience": 2,
+    "technologiesUsed": 12,
+    "githubContributions": 500,
+    "codeLinesWritten": "50k+"
+  },
+  "availability": {
+    "status": "Available for freelance projects",
+    "workingHours": "9 AM - 6 PM (GMT+6:30)",
+    "responseTime": "Within 24 hours",
+    "preferredProjectTypes": ["Web Applications", "API Development", "Database Design"],
+    "minimumProjectDuration": "2 weeks",
+    "hourlyRate": "$25-50"
+  }
+}
